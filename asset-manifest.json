@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shonenblend.github.io/static/css/main.ff90582f.css",
-    "main.js": "/shonenblend.github.io/static/js/main.65f54c4f.js",
+    "main.js": "/shonenblend.github.io/static/js/main.68800f37.js",
     "static/js/453.00fd441c.chunk.js": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js",
     "index.html": "/shonenblend.github.io/index.html",
     "main.ff90582f.css.map": "/shonenblend.github.io/static/css/main.ff90582f.css.map",
-    "main.65f54c4f.js.map": "/shonenblend.github.io/static/js/main.65f54c4f.js.map",
+    "main.68800f37.js.map": "/shonenblend.github.io/static/js/main.68800f37.js.map",
     "453.00fd441c.chunk.js.map": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff90582f.css",
-    "static/js/main.65f54c4f.js"
+    "static/js/main.68800f37.js"
   ]
 }
