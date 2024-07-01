@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f99a807.css",
-    "main.js": "/static/js/main.ad58ad04.js",
-    "static/js/453.00fd441c.chunk.js": "/static/js/453.00fd441c.chunk.js",
-    "static/media/banner1.webp": "/static/media/banner1.7bd1b3cc7ae997532e72.webp",
-    "static/media/banner3.webp": "/static/media/banner3.8944084b9e902d1cab5f.webp",
-    "static/media/banner2.webp": "/static/media/banner2.26777a27f2159d560a18.webp",
-    "static/media/logo.png": "/static/media/logo.10f64d533238e09ec07f.png",
-    "index.html": "/index.html",
-    "main.9f99a807.css.map": "/static/css/main.9f99a807.css.map",
-    "main.ad58ad04.js.map": "/static/js/main.ad58ad04.js.map",
-    "453.00fd441c.chunk.js.map": "/static/js/453.00fd441c.chunk.js.map"
+    "main.css": "/shonenblend.github.io/static/css/main.9f99a807.css",
+    "main.js": "/shonenblend.github.io/static/js/main.e8117421.js",
+    "static/js/453.00fd441c.chunk.js": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js",
+    "static/media/banner1.webp": "/shonenblend.github.io/static/media/banner1.7bd1b3cc7ae997532e72.webp",
+    "static/media/banner3.webp": "/shonenblend.github.io/static/media/banner3.8944084b9e902d1cab5f.webp",
+    "static/media/banner2.webp": "/shonenblend.github.io/static/media/banner2.26777a27f2159d560a18.webp",
+    "static/media/logo.png": "/shonenblend.github.io/static/media/logo.10f64d533238e09ec07f.png",
+    "index.html": "/shonenblend.github.io/index.html",
+    "main.9f99a807.css.map": "/shonenblend.github.io/static/css/main.9f99a807.css.map",
+    "main.e8117421.js.map": "/shonenblend.github.io/static/js/main.e8117421.js.map",
+    "453.00fd441c.chunk.js.map": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f99a807.css",
-    "static/js/main.ad58ad04.js"
+    "static/js/main.e8117421.js"
   ]
 }
