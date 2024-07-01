@@ -1,19 +1,29 @@
 {
   "files": {
-    "main.css": "/shonenblend.github.io/static/css/main.9f99a807.css",
-    "main.js": "/shonenblend.github.io/static/js/main.e8117421.js",
+    "main.css": "/shonenblend.github.io/static/css/main.65d86d4b.css",
+    "main.js": "/shonenblend.github.io/static/js/main.ae88fb35.js",
     "static/js/453.00fd441c.chunk.js": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js",
+    "static/media/content_1.png": "/shonenblend.github.io/static/media/content_1.cb1df529865272838f4f.png",
+    "static/media/content.png": "/shonenblend.github.io/static/media/content.7ffa4adc9e4a2df22333.png",
+    "static/media/summ.png": "/shonenblend.github.io/static/media/summ.efc446d391f7c6ce1904.png",
+    "static/media/sum_back.png": "/shonenblend.github.io/static/media/sum_back.6c9721954ea0070a18e4.png",
+    "static/media/content_white_back.png": "/shonenblend.github.io/static/media/content_white_back.93e98c5e417fbb9b51ec.png",
+    "static/media/reali_back.png": "/shonenblend.github.io/static/media/reali_back.5d96e7601d5d475a21b5.png",
+    "static/media/content_3.png": "/shonenblend.github.io/static/media/content_3.aa88a14ac7762cddb536.png",
+    "static/media/reali_.png": "/shonenblend.github.io/static/media/reali_.f2422ff602e1b15b01d5.png",
+    "static/media/content_4.png": "/shonenblend.github.io/static/media/content_4.60a4541655198493cee9.png",
+    "static/media/content_black_back.png": "/shonenblend.github.io/static/media/content_black_back.c34ad39ba195593af539.png",
     "static/media/banner1.webp": "/shonenblend.github.io/static/media/banner1.7bd1b3cc7ae997532e72.webp",
     "static/media/banner3.webp": "/shonenblend.github.io/static/media/banner3.8944084b9e902d1cab5f.webp",
     "static/media/banner2.webp": "/shonenblend.github.io/static/media/banner2.26777a27f2159d560a18.webp",
     "static/media/logo.png": "/shonenblend.github.io/static/media/logo.10f64d533238e09ec07f.png",
     "index.html": "/shonenblend.github.io/index.html",
-    "main.9f99a807.css.map": "/shonenblend.github.io/static/css/main.9f99a807.css.map",
-    "main.e8117421.js.map": "/shonenblend.github.io/static/js/main.e8117421.js.map",
+    "main.65d86d4b.css.map": "/shonenblend.github.io/static/css/main.65d86d4b.css.map",
+    "main.ae88fb35.js.map": "/shonenblend.github.io/static/js/main.ae88fb35.js.map",
     "453.00fd441c.chunk.js.map": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f99a807.css",
-    "static/js/main.e8117421.js"
+    "static/css/main.65d86d4b.css",
+    "static/js/main.ae88fb35.js"
   ]
 }
