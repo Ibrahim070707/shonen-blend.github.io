@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/shonenblend.github.io/static/css/main.65d86d4b.css",
-    "main.js": "/shonenblend.github.io/static/js/main.ae88fb35.js",
+    "main.css": "/shonenblend.github.io/static/css/main.8adccc54.css",
+    "main.js": "/shonenblend.github.io/static/js/main.47168046.js",
     "static/js/453.00fd441c.chunk.js": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js",
-    "static/media/content_1.png": "/shonenblend.github.io/static/media/content_1.cb1df529865272838f4f.png",
-    "static/media/content.png": "/shonenblend.github.io/static/media/content.7ffa4adc9e4a2df22333.png",
-    "static/media/summ.png": "/shonenblend.github.io/static/media/summ.efc446d391f7c6ce1904.png",
-    "static/media/sum_back.png": "/shonenblend.github.io/static/media/sum_back.6c9721954ea0070a18e4.png",
-    "static/media/content_white_back.png": "/shonenblend.github.io/static/media/content_white_back.93e98c5e417fbb9b51ec.png",
-    "static/media/reali_back.png": "/shonenblend.github.io/static/media/reali_back.5d96e7601d5d475a21b5.png",
-    "static/media/content_3.png": "/shonenblend.github.io/static/media/content_3.aa88a14ac7762cddb536.png",
-    "static/media/reali_.png": "/shonenblend.github.io/static/media/reali_.f2422ff602e1b15b01d5.png",
-    "static/media/content_4.png": "/shonenblend.github.io/static/media/content_4.60a4541655198493cee9.png",
-    "static/media/content_black_back.png": "/shonenblend.github.io/static/media/content_black_back.c34ad39ba195593af539.png",
     "static/media/banner1.webp": "/shonenblend.github.io/static/media/banner1.7bd1b3cc7ae997532e72.webp",
     "static/media/banner3.webp": "/shonenblend.github.io/static/media/banner3.8944084b9e902d1cab5f.webp",
     "static/media/banner2.webp": "/shonenblend.github.io/static/media/banner2.26777a27f2159d560a18.webp",
+    "static/media/content_1.webp": "/shonenblend.github.io/static/media/content_1.f9798e80dcb49f34a8bf.webp",
+    "static/media/summ.webp": "/shonenblend.github.io/static/media/summ.df7ef5f71257fc70c653.webp",
+    "static/media/content.webp": "/shonenblend.github.io/static/media/content.1d3e3e1f61227d179852.webp",
+    "static/media/sum_back.webp": "/shonenblend.github.io/static/media/sum_back.59bca01bfa12c0356f63.webp",
+    "static/media/content_3.webp": "/shonenblend.github.io/static/media/content_3.ad80af3f44c5640c3cbc.webp",
+    "static/media/content_white_back.webp": "/shonenblend.github.io/static/media/content_white_back.6565187b95ddf4ab54fa.webp",
+    "static/media/content_4.webp": "/shonenblend.github.io/static/media/content_4.f42131f0fddfad01c812.webp",
+    "static/media/reali_back.webp": "/shonenblend.github.io/static/media/reali_back.0a804c8216f0b73c994b.webp",
+    "static/media/reali_.webp": "/shonenblend.github.io/static/media/reali_.81c9bfcd59450d7c0999.webp",
+    "static/media/content_black_back.webp": "/shonenblend.github.io/static/media/content_black_back.3195ddf8de8e38a93118.webp",
     "static/media/logo.png": "/shonenblend.github.io/static/media/logo.10f64d533238e09ec07f.png",
+    "static/media/banner1_lqip.webp": "/shonenblend.github.io/static/media/banner1_lqip.484cfb258e7435d58b21.webp",
+    "static/media/banner2_lqip.webp": "/shonenblend.github.io/static/media/banner2_lqip.11b7a3c4e6076d107502.webp",
+    "static/media/banner3_lqip.webp": "/shonenblend.github.io/static/media/banner3_lqip.15209c65e747c87cad64.webp",
     "index.html": "/shonenblend.github.io/index.html",
-    "main.65d86d4b.css.map": "/shonenblend.github.io/static/css/main.65d86d4b.css.map",
-    "main.ae88fb35.js.map": "/shonenblend.github.io/static/js/main.ae88fb35.js.map",
+    "main.8adccc54.css.map": "/shonenblend.github.io/static/css/main.8adccc54.css.map",
+    "main.47168046.js.map": "/shonenblend.github.io/static/js/main.47168046.js.map",
     "453.00fd441c.chunk.js.map": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d86d4b.css",
-    "static/js/main.ae88fb35.js"
+    "static/css/main.8adccc54.css",
+    "static/js/main.47168046.js"
   ]
 }
