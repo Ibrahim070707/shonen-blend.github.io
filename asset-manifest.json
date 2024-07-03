@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shonenblend.github.io/static/css/main.8adccc54.css",
-    "main.js": "/shonenblend.github.io/static/js/main.47168046.js",
+    "main.css": "/shonenblend.github.io/static/css/main.5c6f71b7.css",
+    "main.js": "/shonenblend.github.io/static/js/main.581465bc.js",
     "static/js/453.00fd441c.chunk.js": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js",
     "static/media/banner1.webp": "/shonenblend.github.io/static/media/banner1.7bd1b3cc7ae997532e72.webp",
     "static/media/banner3.webp": "/shonenblend.github.io/static/media/banner3.8944084b9e902d1cab5f.webp",
@@ -11,6 +11,7 @@
     "static/media/content.webp": "/shonenblend.github.io/static/media/content.1d3e3e1f61227d179852.webp",
     "static/media/sum_back.webp": "/shonenblend.github.io/static/media/sum_back.59bca01bfa12c0356f63.webp",
     "static/media/content_3.webp": "/shonenblend.github.io/static/media/content_3.ad80af3f44c5640c3cbc.webp",
+    "static/media/coupon.png": "/shonenblend.github.io/static/media/coupon.24189e43d99144ce47fb.png",
     "static/media/content_white_back.webp": "/shonenblend.github.io/static/media/content_white_back.6565187b95ddf4ab54fa.webp",
     "static/media/content_4.webp": "/shonenblend.github.io/static/media/content_4.f42131f0fddfad01c812.webp",
     "static/media/reali_back.webp": "/shonenblend.github.io/static/media/reali_back.0a804c8216f0b73c994b.webp",
@@ -21,12 +22,12 @@
     "static/media/banner2_lqip.webp": "/shonenblend.github.io/static/media/banner2_lqip.11b7a3c4e6076d107502.webp",
     "static/media/banner3_lqip.webp": "/shonenblend.github.io/static/media/banner3_lqip.15209c65e747c87cad64.webp",
     "index.html": "/shonenblend.github.io/index.html",
-    "main.8adccc54.css.map": "/shonenblend.github.io/static/css/main.8adccc54.css.map",
-    "main.47168046.js.map": "/shonenblend.github.io/static/js/main.47168046.js.map",
+    "main.5c6f71b7.css.map": "/shonenblend.github.io/static/css/main.5c6f71b7.css.map",
+    "main.581465bc.js.map": "/shonenblend.github.io/static/js/main.581465bc.js.map",
     "453.00fd441c.chunk.js.map": "/shonenblend.github.io/static/js/453.00fd441c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8adccc54.css",
-    "static/js/main.47168046.js"
+    "static/css/main.5c6f71b7.css",
+    "static/js/main.581465bc.js"
   ]
 }
